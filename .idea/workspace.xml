@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eed18d45-e3cc-4ec1-b323-71b19501b89f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BELL2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MsIb6n3RxaE.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TheWitcher3.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ak-title.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ak.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bg-witcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pause.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo-mini.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-start.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/strelo4ka.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610820140928</updated>
-      <workItem from="1610820142529" duration="312000" />
+      <workItem from="1610820142529" duration="6625000" />
     </task>
     <servers />
   </component>
